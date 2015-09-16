@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:10.521611
+#+DATE: 2015-08-30 20:02:12.059201
 #+TITLE: 佛說無量清淨平等覺經
 #+PROPERTY: CBETA_ID T12n0361
 #+PROPERTY: ID KR6f0061
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 361
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DUN
 #+PROPERTY: LASTPB <pb:KR6f0061_T_003-0290b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說無量清淨平等覺經》卷第三¶
+《佛說無量清淨平等覺經》卷第三¶
 ¶
 後漢月氏國三藏支婁迦讖譯¶
 
@@ -371,7 +370,7 @@
 為用可爾。至時都集說經行道，自然迫促，¶
 應答遲晚。道智卓殊超絕，才妙高猛，獨於¶
 邊羸。臨事乃悔，悔者已出，其後當復何益？¶
-但心中悷悢慕及等耳。」¶
+但心中悷⬤[怡-台+亮]慕及等耳。」¶
 
 佛言：「無量清淨佛國諸菩薩、阿羅漢眾等，¶
 大道聚會自都集，拘心制意，端身正行，遊戲¶
